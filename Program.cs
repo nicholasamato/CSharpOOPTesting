@@ -2,7 +2,7 @@
 
 
 namespace Test{
-    class Program{
+    partial class Program{
         static bool Login(Admin admin){
             Console.WriteLine("Who are you? : ");
             string name = Console.ReadLine();
@@ -39,6 +39,7 @@ namespace Test{
             users[3] = user4;
             users[4] = user5;
             Admin admin1 = new Admin(users, user1, "1234");
+            printHelloWorld();
             // login
             
             // ask user1 to enter a command
