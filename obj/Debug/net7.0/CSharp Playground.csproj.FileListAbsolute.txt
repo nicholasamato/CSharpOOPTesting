@@ -1,0 +1,15 @@
+/Users/nickamato/CSharp Playground/bin/Debug/net7.0/CSharp Playground
+/Users/nickamato/CSharp Playground/bin/Debug/net7.0/CSharp Playground.deps.json
+/Users/nickamato/CSharp Playground/bin/Debug/net7.0/CSharp Playground.runtimeconfig.json
+/Users/nickamato/CSharp Playground/bin/Debug/net7.0/CSharp Playground.dll
+/Users/nickamato/CSharp Playground/bin/Debug/net7.0/CSharp Playground.pdb
+/Users/nickamato/CSharp Playground/obj/Debug/net7.0/CSharp Playground.csproj.AssemblyReference.cache
+/Users/nickamato/CSharp Playground/obj/Debug/net7.0/CSharp Playground.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nickamato/CSharp Playground/obj/Debug/net7.0/CSharp Playground.AssemblyInfoInputs.cache
+/Users/nickamato/CSharp Playground/obj/Debug/net7.0/CSharp Playground.AssemblyInfo.cs
+/Users/nickamato/CSharp Playground/obj/Debug/net7.0/CSharp Playground.csproj.CoreCompileInputs.cache
+/Users/nickamato/CSharp Playground/obj/Debug/net7.0/CSharp Playground.dll
+/Users/nickamato/CSharp Playground/obj/Debug/net7.0/refint/CSharp Playground.dll
+/Users/nickamato/CSharp Playground/obj/Debug/net7.0/CSharp Playground.pdb
+/Users/nickamato/CSharp Playground/obj/Debug/net7.0/CSharp Playground.genruntimeconfig.cache
+/Users/nickamato/CSharp Playground/obj/Debug/net7.0/ref/CSharp Playground.dll
